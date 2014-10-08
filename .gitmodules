@@ -1,21 +1,21 @@
 [submodule "Submodules/OTRKit"]
 	path = Submodules/OTRKit
-	url = git@github.com:ChatSecure/OTRKit.git
+	url =  https://github.com/ChatSecure/OTRKit.git
 [submodule "Submodules/XMPPFramework"]
 	path = Submodules/XMPPFramework
-	url = git@github.com:ChatSecure/XMPPFramework.git
+	url =  https://github.com/ChatSecure/XMPPFramework.git
 [submodule "Submodules/iOS-Screenshot-Automater"]
 	path = Submodules/iOS-Screenshot-Automater
-	url = git@github.com:ChatSecure/iOS-Screenshot-Automator.git
+	url =  https://github.com/ChatSecure/iOS-Screenshot-Automator.git
 [submodule "Submodules/ChatSecure-Metadata"]
 	path = Submodules/ChatSecure-Metadata
-	url = git@github.com:ChatSecure/ChatSecure-Metadata.git
+	url =  https://github.com/ChatSecure/ChatSecure-Metadata.git
 [submodule "Submodules/OnionKit"]
 	path = Submodules/OnionKit
-	url = git@github.com:ChatSecure/OnionKit.git
+	url =  https://github.com/ChatSecure/OnionKit.git
 [submodule "Submodules/ProxyKit"]
 	path = Submodules/ProxyKit
 	url = git@github.com:chrisballinger/ProxyKit.git
 [submodule "Submodules/CPAProxy"]
 	path = Submodules/CPAProxy
-	url = git@github.com:ChatSecure/CPAProxy.git
+	url =  https://github.com/ChatSecure/CPAProxy.git
