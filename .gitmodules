@@ -15,7 +15,7 @@
 	url =  https://github.com/ChatSecure/OnionKit.git
 [submodule "Submodules/ProxyKit"]
 	path = Submodules/ProxyKit
-	url = git@github.com:chrisballinger/ProxyKit.git
+	url = https://github.com/chrisballinger/ProxyKit.git
 [submodule "Submodules/CPAProxy"]
 	path = Submodules/CPAProxy
 	url =  https://github.com/ChatSecure/CPAProxy.git
